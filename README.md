@@ -1,6 +1,6 @@
 # 🖥️ Sistema 
 
-Este repositório contém a documentação completa do **Sistema de Gestão Empresarial**, incluindo configuração de parâmetros, cadastros e operações essenciais para empresas.
+Este repositório contém a documentação completa do **Sistema**, incluindo configuração de parâmetros, cadastros e operações essenciais para empresas.
 
 ---
 
