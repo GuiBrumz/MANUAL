@@ -20,6 +20,8 @@ O sistema é organizado em módulos principais:
 - **[Cadastro de Produtos](./4%20-%20Cadastro-produtos/cad-produtos.md)**  
   Controle completo de produtos: estoque, lotes, validade, grades (tamanho e cor), custo, preço e integração com vendas e notas fiscais.
 
+- **[Movimentações](./5%20-%20Movimentações/movimentacoes.md)**  
+  Reúne os principais procedimentos e orientações para utilização dos módulos de **Compras** e **Vendas/Devoluções** no sistema,
 ---
 
 Clique em cada módulo para acessar o conteúdo detalhado e exemplos de configuração do sistema.
