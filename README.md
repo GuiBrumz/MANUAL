@@ -1,4 +1,4 @@
-# 🖥️ Sistema 
+# 🖥️ Sistema - RK
 
 Este repositório contém a documentação completa do **Sistema**, incluindo configuração de parâmetros, cadastros e operações essenciais para empresas.
 
