@@ -25,8 +25,11 @@ O sistema é organizado em módulos principais:
 ---
 ## 📌 Treinamento-Trainee
 
-- **[Parâmetros](./6%20-%20Parâmetros%20N-Trainee/parametros-tra.md)**  
+- **[Parâmetros Específicos da Empresa](./Treinamento%20Trainee/1%20-%20Parâmetros%20N-Trainee/parametros-tra.md)**  
   Configurações gerais e específicas da empresa, como configurações de parâmetros, logs, backup, notas fiscais e TEF.
+
+- **[Movimentações e financeiro](./Treinamento%20Trainee/2%20-%20Movimentação%20e%20financeiro/movimentacao-financeiro.md)**  
+  Este documento detalha os módulos de **Movimentações** e **Financeiro** do sistema, com orientações sobre lançamentos, pagamentos, quitações e relatórios.
 ---
 
 Clique em cada módulo para acessar o conteúdo detalhado e exemplos de configuração do sistema.
