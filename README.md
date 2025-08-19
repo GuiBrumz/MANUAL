@@ -30,6 +30,9 @@ O sistema é organizado em módulos principais:
 
 - **[Movimentações e financeiro](./Treinamento%20Trainee/2%20-%20Movimentação%20e%20financeiro/movimentacao-financeiro.md)**  
   Este documento detalha os módulos de **Movimentações** e **Financeiro** do sistema, com orientações sobre lançamentos, pagamentos, quitações e relatórios.
+
+- **[Sistema de Relatórios e Utilitários](./Treinamento%20Trainee/3%20-%20Utilitários%20e%20relatórios/utilitarios-relatorios.md)**  
+  Este documento reúne as informações sobre os **utilitários e relatórios** disponíveis no sistema, detalhando funcionalidades, menus e principais operações.
 ---
 
 Clique em cada módulo para acessar o conteúdo detalhado e exemplos de configuração do sistema.
